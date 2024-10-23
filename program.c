@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello from change!\n");
+    printf("Hello from MAIN!\n");
     return 0;
 }
